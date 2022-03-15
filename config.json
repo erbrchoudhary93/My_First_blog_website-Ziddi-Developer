@@ -1,0 +1,23 @@
+{
+    "params": {
+
+        "local_server": "True",
+        "local_url": "mysql://root:@localhost/ziddi_developer",
+        "prod_url": "mysql://root:@localhost/ziddi_developer",
+        "fb_url": "https://facebook.com/ziddideveloper",
+        "tw_url": "https://twitter.com/erbrchoudhary",
+        "gh_url": "https://github.com/erbrchoudhary93",
+        "blog_name": "Ziddi Developer",
+        "tagline": "A blog liked by Programmer",
+        "gmail-user": "abcd@gmail.com",
+        "gmail-password": "12345",
+        "about_text": "Hi my name is Er. Bheekha Ram Choudhary i am  web developer in flask and django framework",
+        "no_of_posts": 2,
+        "login_image": "login.svg",
+        "admin_user": "ziddi",
+        "admin_password": "engineer",
+        "upload_location": "G:\\pythan project with pycharm\\Flask_program\\static"
+
+    }
+
+}
